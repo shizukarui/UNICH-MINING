@@ -65,6 +65,7 @@ node-fetch → para sa API requests
 
 Step 4 — Run the mining script
 
+```bash
 node simmilap.js
 
 Lalabas ang Blessed UI, may countdown sa header na naka-center.
