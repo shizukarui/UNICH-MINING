@@ -26,7 +26,6 @@ Step 2 — Prepare project folder
 
 ```bash
 git clone https://github.com/shizukarui/UNICH-MINING.git
-mkdir -p ~/UNICH-MINING
 cd ~/UNICH-MINING
 ```
 
