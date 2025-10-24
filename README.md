@@ -1,7 +1,7 @@
 UNICH MINING (Blessed UI) — Termux Setup Guide
 
-Author: GPT-5 😎
-Script: mining.js (kasama ang real-time countdown at fireworks UI)
+Author: Simmi 😎
+Script: simmilap.js (kasama ang real-time countdown at fireworks UI)
 
 
 ---
