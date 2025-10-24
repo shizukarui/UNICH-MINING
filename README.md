@@ -25,6 +25,7 @@ pkg install nodejs -y
 Step 2 — Prepare project folder
 
 ```bash
+git clone https://github.com/shizukarui/UNICH-MINING.git
 mkdir -p ~/UNICH-MINING
 cd ~/UNICH-MINING
 ```
@@ -33,10 +34,8 @@ Ilagay dito ang simmilap.js at ang token.txt
 
 token.txt dapat may token string lang (halimbawa):
 
-```bash
 echo "YOUR_TOKEN_HERE" > token.txt
 chmod 600 token.txt
-```
 
 ---
 
