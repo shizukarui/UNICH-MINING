@@ -22,6 +22,7 @@ Step 1 — Install Termux packages
 
 Open Termux at i-run:
 
+```bash
 pkg update -y
 pkg upgrade -y
 pkg install nodejs -y
@@ -31,10 +32,11 @@ pkg install nodejs -y
 
 Step 2 — Prepare project folder
 
+```bash
 mkdir -p ~/UNICH-MINING
 cd ~/UNICH-MINING
 
-Ilagay dito ang mining.js at ang token.txt
+Ilagay dito ang simmilap.js at ang token.txt
 
 token.txt dapat may token string lang (halimbawa):
 
@@ -49,9 +51,10 @@ Step 3 — Install required Node.js modules
 
 Sa folder ng project, i-run:
 
+```bash
 npm install blessed node-fetch
 
-> Ang code mo ay gumagamit ng:
+Ang code mo ay gumagamit ng:
 
 blessed → para sa terminal UI at fireworks
 
