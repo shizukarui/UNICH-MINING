@@ -12,7 +12,7 @@ Android device with Termux installed
 
 Node.js installed in Termux
 
-mining.js at token.txt nasa iisang folder (hal., ~/UNICH-MINING)
+simmilap.js at token.txt nasa iisang folder (hal., ~/UNICH-MINING)
 
 
 
